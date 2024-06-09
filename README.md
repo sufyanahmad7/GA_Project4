@@ -73,12 +73,12 @@ Your boss would rather tell a client incorrectly that they would get a lower sal
 ## Suggestions for Getting Started
 
 1. Collect data from [Indeed.com](www.indeed.com) (or another aggregator) on data-related jobs to use in predicting salary trends for your analysis.
-  - Select and parse data from *at least 1000 postings* for jobs, potentially from multiple location searches.
+      - Select and parse data from *at least 1000 postings* for jobs, potentially from multiple location searches.
 2. Find out what factors most directly impact salaries (e.g. title, location, department, etc).
-  - Test, validate, and describe your models. What factors predict salary category? How do your models perform?
+      - Test, validate, and describe your models. What factors predict salary category? How do your models perform?
 3. Discover which features have the greatest importance when determining a low vs. high paying job.
-  - Your Boss is interested in what overall features hold the greatest significance.
-  - HR is interested in which SKILLS and KEY WORDS hold the greatest significance.   
+      - Your Boss is interested in what overall features hold the greatest significance.
+      - HR is interested in which SKILLS and KEY WORDS hold the greatest significance.   
 4. Author an executive summary that details the highlights of your analysis for a non-technical audience.
 5. If tackling the bonus question, try framing the salary problem as a classification problem detecting low vs. high salary positions.
 
